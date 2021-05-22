@@ -2,8 +2,8 @@
 
 This code doesn't require installing any other libraries so if you want to mess up with my code - you're more than welcome!
 
-## Found any bugs? 
-If you found any bug please go to issues page and submit one.
+## Update
+[This project is no longer maintained.](https://github.com/vv1ktor/SimonUI/issues/1) 
 
 ## Authors
 Wiktor Gała
