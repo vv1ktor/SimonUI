@@ -1,4 +1,4 @@
-# SimonUI - basic Simon Says game built using SwiftUI
+# SimonUI
 
 This code doesn't require installing any other libraries so if you want to mess up with my code - you're more than welcome!
 
